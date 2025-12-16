@@ -20,8 +20,11 @@ pids/
 
 # Large files (use Git LFS instead)
 *.omSettings
-data/user-profiles/*/settings/
-data/user-profiles/*/backups/# Coverage directory
+data/user-profiles/
+data/cache/
+data/temp/
+
+# Coverage directory
 coverage/
 
 # Cache directories
