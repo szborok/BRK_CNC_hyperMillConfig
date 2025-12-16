@@ -66,4 +66,4 @@ class Logger {
   }
 }
 
-module.exports = Logger;
+module.exports = new Logger();

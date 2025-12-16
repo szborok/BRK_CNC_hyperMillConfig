@@ -1,6 +1,6 @@
 module.exports = {
   // Server Configuration
-  port: process.env.PORT || 3005,
+  port: process.env.PORT || 3009,
   env: process.env.NODE_ENV || 'production',
 
   // hyperMILL Paths (will be auto-discovered or configured)
